@@ -5,10 +5,8 @@ Python3
 python3-pip
 AWS boto3
 
-#¿Comó funciona?
+# ¿Comó Funciona?
 
 Se ejecuta el listaS3.py pasando dos parametros, ACCESS_KEY y SECRETKEY para tener acceso a tus buckets S3
 
 ./listaS3 ACCESSKEY SECRETKEY
-
-
